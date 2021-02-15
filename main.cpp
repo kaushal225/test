@@ -3,6 +3,7 @@
 using namespace std;
 void permutation(string s, string ans )
 {
+    cout << "good morning";
     if(s.length()==0)
     {
         cout << ans << endl;
